@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|a:\\asp .net core\\.net_core_co_pham_thuy\\bai3\\bai3\\bai3\\views\\testview\\testrazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|solutionrelative:bai3\\views\\testview\\testrazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|a:\\asp .net core\\.net_core_co_pham_thuy\\bai3\\bai3\\bai3\\controllers\\testviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|solutionrelative:bai3\\controllers\\testviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|a:\\asp .net core\\.net_core_co_pham_thuy\\bai3\\bai3\\bai3\\views\\testview\\truyendulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|solutionrelative:bai3\\views\\testview\\truyendulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestRazor.cshtml",
+              "DocumentMoniker": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Bai3\\Views\\TestView\\TestRazor.cshtml",
+              "RelativeDocumentMoniker": "Bai3\\Views\\TestView\\TestRazor.cshtml",
+              "ToolTip": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Bai3\\Views\\TestView\\TestRazor.cshtml",
+              "RelativeToolTip": "Bai3\\Views\\TestView\\TestRazor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T03:04:39.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestViewController.cs",
+              "DocumentMoniker": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Bai3\\Controllers\\TestViewController.cs",
+              "RelativeDocumentMoniker": "Bai3\\Controllers\\TestViewController.cs",
+              "ToolTip": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Bai3\\Controllers\\TestViewController.cs",
+              "RelativeToolTip": "Bai3\\Controllers\\TestViewController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:50:47.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TruyenDuLieu.cshtml",
+              "DocumentMoniker": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Bai3\\Views\\TestView\\TruyenDuLieu.cshtml",
+              "RelativeDocumentMoniker": "Bai3\\Views\\TestView\\TruyenDuLieu.cshtml",
+              "ToolTip": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Bai3\\Views\\TestView\\TruyenDuLieu.cshtml",
+              "RelativeToolTip": "Bai3\\Views\\TestView\\TruyenDuLieu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T02:49:02.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
