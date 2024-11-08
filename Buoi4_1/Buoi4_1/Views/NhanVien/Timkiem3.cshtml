@@ -1,0 +1,18 @@
+﻿<h1>Thông tin nhân viên của 1 phòng ban</h1>
+
+@{
+    Html.BeginForm("Timkiem3_1", "NhanVien", FormMethod.Post);
+    {
+        @Html.Label("Nhập tên phòng ban cần tìm kiếm")
+        <br />
+        @Html.TextBox("s")
+        <br />
+        <input type="submit" value="Tìm kiếm" />
+    }
+}
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger mt-3">
+        @ViewBag.ErrorMessage
+    </div>
+}

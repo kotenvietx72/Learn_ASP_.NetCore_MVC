@@ -1,0 +1,10 @@
+﻿<div>
+    @{
+        Html.BeginForm("Bai1_1", "Home", FormMethod.Post);
+        {
+            @Html.Label("Chọn địa chỉ: ")
+            @Html.DropDownList("myList", new SelectList (new [] {"Hà Nội", "Nam Định", "Hải Dương", "Hà Giang"}), "Choose")
+            <input type="submit" value="Xác nhận" />
+        }
+    }
+</div>

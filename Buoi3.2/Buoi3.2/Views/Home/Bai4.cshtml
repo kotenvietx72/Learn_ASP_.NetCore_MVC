@@ -1,0 +1,17 @@
+﻿@model Buoi3._2.Models.PTB2
+<h1>Nhập hệ số cho phương trình bậc 2</h1>
+@{
+    Html.BeginForm("Bai4_1", "Home", FormMethod.Post);
+    {
+        @Html.Label("Nhập hệ số thứ nhất: ")
+        @Html.TextBoxFor(m => m.a)
+        <br>
+        @Html.Label("Nhập hệ số thứ hai: ")
+        @Html.TextBoxFor(m => m.b)
+        <br>
+        @Html.Label("Nhập hệ số thứ ba: ")
+        @Html.TextBoxFor(m => m.c)
+        <br>
+        <input type="submit" value="Xem Kết Quả" />
+    }
+}

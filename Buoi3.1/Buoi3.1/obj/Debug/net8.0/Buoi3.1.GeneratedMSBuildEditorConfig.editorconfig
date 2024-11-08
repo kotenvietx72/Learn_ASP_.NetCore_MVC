@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Buoi3._1
+build_property.RootNamespace = Buoi3._1
+build_property.ProjectDir = A:\ASP .NET core\.Net_Core_Co_Pham_Thuy\Buoi3.1\Buoi3.1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = A:\ASP .NET core\.Net_Core_Co_Pham_Thuy\Buoi3.1\Buoi3.1
+build_property._RazorSourceGeneratorDebug = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Buoi3.1/Buoi3.1/Views/DemoView/TestHTMLHelper.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1ZpZXdcVGVzdEhUTUxIZWxwZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Buoi3.1/Buoi3.1/Views/GiaiBT/MotDT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhaUJUXE1vdERULmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Buoi3.1/Buoi3.1/Views/GiaiBT/TimUCLN.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhaUJUXFRpbVVDTE4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Buoi3.1/Buoi3.1/Views/GiaiBT/TimUCLN1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhaUJUXFRpbVVDTE4xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Buoi3.1/Buoi3.1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Buoi3.1/Buoi3.1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Buoi3.1/Buoi3.1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Buoi3.1/Buoi3.1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Buoi3.1/Buoi3.1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Buoi3.1/Buoi3.1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Buoi3.1/Buoi3.1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-klw0mlwyvw

@@ -1,0 +1,33 @@
+﻿@model Buoi3._1.Models.Users;
+<h1>Truyền một đối tượng</h1>
+@{
+    Html.BeginForm();
+    {
+        @Html.LabelFor(m => m.Id)
+        @Html.TextBoxFor(m => m.Id)
+        <br />
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+        <br />
+        @Html.LabelFor(m => m.Address)
+        @Html.TextBoxFor(m => m.Address)
+        <br />
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email)
+        <br />
+        @Html.LabelFor(m => m.Password)
+        @Html.TextBoxFor(m => m.Password)
+        <br />
+        @Html.LabelFor(m => m.Gender)
+        @Html.TextBoxFor(m => m.Gender)
+        <br />
+        <input type="submit" value="Gửi KQ" />
+    }
+    /*var user = Model;
+    <p>Id: @user.Id</p>
+    <p>Name: @user.Name</p>
+    <p>Address: @user.Address</p>
+    <p>Email: @user.Email</p>
+    <p>Password: @user.Password</p>
+    <p>Gender: @user.Gender</p> */
+}

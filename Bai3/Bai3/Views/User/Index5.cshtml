@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Bai3.Models.User>
+
+<h1>Index 3</h1>@{
+    var a = Model;
+    foreach (var x in a)
+    {
+        <h2>Thông tin của người dùng</h2>
+        <p>Id: @x.Id</p>
+        <p>Name: @x.Name</p>
+        <p>Email: @x.Email</p>
+        <p>Address: @x.Address</p>
+    }
+}

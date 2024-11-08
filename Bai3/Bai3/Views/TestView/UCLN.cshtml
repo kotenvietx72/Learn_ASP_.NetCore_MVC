@@ -1,0 +1,17 @@
+﻿<div>
+    @{
+        int a = ViewBag.a, b = ViewBag.b;
+        while(a != b)
+        {
+            if(a > b)
+            {
+                a = a - b;
+            }
+            else
+            {
+                b = b - a;
+            }
+        }
+        <p>Ước chung lớn nhất của @ViewBag.a và @ViewBag.b là @a</p>
+    }
+</div>

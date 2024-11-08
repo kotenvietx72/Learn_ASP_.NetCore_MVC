@@ -1,0 +1,18 @@
+﻿@model Buoi4_1.Models.Login
+@{
+    <h1>Đăng nhập</h1>
+    Html.BeginForm("DangNhap_1", "Home", FormMethod.Post);
+    {
+        @Html.LabelFor(m =>m.UserName, "Tên đăng nhập: ")
+        @Html.TextBoxFor(m =>m.UserName) 
+        <br />
+        @Html.LabelFor(m => m.Password, "Mật khẩu: ")
+        @Html.TextBoxFor(m => m.Password)
+        <br />
+        <input type="submit" value="Đăng nhập" />
+    }
+    if (TempData["Error"] != null)
+    {
+        <p>@TempData["Error"]</p>
+    }
+}

@@ -1,0 +1,13 @@
+﻿@{
+    int tong = 0;
+    <p>Các số lẻ trong phạm vi từ 1 tới @ViewBag.a là: </p>
+    for(int i = 1; i <= ViewBag.a; i++)
+    {
+        tong += i;
+        if(i % 2 != 0)
+        {
+            <p>@i </p>
+        }
+    }
+    <p>Tổng các số trong phạm vi từ 1 tới @ViewBag.a là: @tong</p>
+}

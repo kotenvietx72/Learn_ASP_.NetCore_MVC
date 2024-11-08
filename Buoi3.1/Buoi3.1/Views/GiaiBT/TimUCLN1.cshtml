@@ -1,0 +1,15 @@
+﻿@{
+    int x = ViewBag.a, y = ViewBag.b;
+    while(x != y)
+    {
+        if(x > y)
+        {
+            x -= y;
+        }
+        else
+        {
+            y -= x;
+        }
+    }
+    <p>Ước chung lớn nhất của @ViewBag.a và @ViewBag.b là: @x</p>
+}

@@ -1,0 +1,12 @@
+﻿<h1>Index 2</h1>
+@{
+    var a = ViewBag.users as List<Bai3.Models.User>;
+    foreach(var x in a)
+    {
+        <h2>Thông tin của người dùng</h2>
+        <h3>Id: @x.Id</h3>
+        <h3>Name: @x.Name</h3>
+        <h3>Email: @x.Email</h3>
+        <h3>Address: @x.Address</h3>
+    }
+}

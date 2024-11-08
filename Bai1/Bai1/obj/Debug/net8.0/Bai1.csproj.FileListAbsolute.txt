@@ -28,3 +28,4 @@ A:\ASP .NET core\.Net_Core_Co_Pham_Thuy\Bai1\Bai1\obj\Debug\net8.0\refint\Bai1.d
 A:\ASP .NET core\.Net_Core_Co_Pham_Thuy\Bai1\Bai1\obj\Debug\net8.0\Bai1.pdb
 A:\ASP .NET core\.Net_Core_Co_Pham_Thuy\Bai1\Bai1\obj\Debug\net8.0\Bai1.genruntimeconfig.cache
 A:\ASP .NET core\.Net_Core_Co_Pham_Thuy\Bai1\Bai1\obj\Debug\net8.0\ref\Bai1.dll
+A:\ASP .NET core\.Net_Core_Co_Pham_Thuy\Bai1\Bai1\obj\Debug\net8.0\Bai1.sourcelink.json

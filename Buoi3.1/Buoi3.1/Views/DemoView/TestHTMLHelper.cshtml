@@ -1,0 +1,20 @@
+﻿@{
+    Html.BeginForm("Browse", "Home");
+}
+@Html.Label("User Name: ")<br />
+@Html.TextBox("Textbox1")<br />
+@Html.Label("Address: ")<br />
+@Html.TextArea("Textarea1")<br />
+@Html.Label("Password: ")<br />
+@Html.Password("password: ")<br />
+@Html.Label("I need updates on my mail: ")<br />
+@Html.CheckBox("checkbox1")<br />
+@Html.Label("Select your city: ")
+@Html.DropDownList("myList", new SelectList(new[] {"New York", "Philadelphia", "Califonia"}), "Choose") <br />
+Male @Html.RadioButton("Gender", "Male", true) <br />
+Female @Html.RadioButton("Gender", "Female") <br />
+<input type="submit" value="Nộp" />
+@{
+    Html.EndForm();
+}
+

@@ -1,0 +1,77 @@
+﻿@model IEnumerable<Buoi4_1.Models.NhanVien>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Danh sách nhân viên</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MaNV)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HoTen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.a)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GioiTinh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SoDT)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HSLuong)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Luong)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenPhong)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaNV)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @($"{item.a.Ngay}/{item.a.Thang}/{item.a.Nam}")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GioiTinh)
+            </td>
+            <td>
+                @("0" + item.SoDT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HSLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Luong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenPhong)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.MaNV }) |
+                @Html.ActionLink("Details", "Details", new { id = item.MaNV }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.MaNV })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

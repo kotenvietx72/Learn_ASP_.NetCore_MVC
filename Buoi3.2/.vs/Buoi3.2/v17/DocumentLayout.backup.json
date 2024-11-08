@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Buoi3.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{230F5D4E-AF86-477C-97E4-4D2FA1DDA4F0}|Buoi3.2\\Buoi3.2.csproj|a:\\asp .net core\\.net_core_co_pham_thuy\\buoi3.2\\buoi3.2\\views\\home\\bai4_1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{230F5D4E-AF86-477C-97E4-4D2FA1DDA4F0}|Buoi3.2\\Buoi3.2.csproj|solutionrelative:buoi3.2\\views\\home\\bai4_1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230F5D4E-AF86-477C-97E4-4D2FA1DDA4F0}|Buoi3.2\\Buoi3.2.csproj|a:\\asp .net core\\.net_core_co_pham_thuy\\buoi3.2\\buoi3.2\\views\\home\\bai4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{230F5D4E-AF86-477C-97E4-4D2FA1DDA4F0}|Buoi3.2\\Buoi3.2.csproj|solutionrelative:buoi3.2\\views\\home\\bai4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230F5D4E-AF86-477C-97E4-4D2FA1DDA4F0}|Buoi3.2\\Buoi3.2.csproj|a:\\asp .net core\\.net_core_co_pham_thuy\\buoi3.2\\buoi3.2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230F5D4E-AF86-477C-97E4-4D2FA1DDA4F0}|Buoi3.2\\Buoi3.2.csproj|solutionrelative:buoi3.2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai4_1.cshtml",
+              "DocumentMoniker": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Buoi3.2\\Buoi3.2\\Views\\Home\\Bai4_1.cshtml",
+              "RelativeDocumentMoniker": "Buoi3.2\\Views\\Home\\Bai4_1.cshtml",
+              "ToolTip": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Buoi3.2\\Buoi3.2\\Views\\Home\\Bai4_1.cshtml",
+              "RelativeToolTip": "Buoi3.2\\Views\\Home\\Bai4_1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T13:39:34.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai4.cshtml",
+              "DocumentMoniker": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Buoi3.2\\Buoi3.2\\Views\\Home\\Bai4.cshtml",
+              "RelativeDocumentMoniker": "Buoi3.2\\Views\\Home\\Bai4.cshtml",
+              "ToolTip": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Buoi3.2\\Buoi3.2\\Views\\Home\\Bai4.cshtml",
+              "RelativeToolTip": "Buoi3.2\\Views\\Home\\Bai4.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:19:29.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Buoi3.2\\Buoi3.2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Buoi3.2\\Controllers\\HomeController.cs",
+              "ToolTip": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Buoi3.2\\Buoi3.2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Buoi3.2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA8wDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:27:10.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

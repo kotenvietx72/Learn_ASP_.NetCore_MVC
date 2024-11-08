@@ -22,10 +22,13 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=Index1}/{id?}");
 
 app.MapControllerRoute( // Tạo riêng 1 đường dẫn cho controller Hello, action Welcome
     name: "Hello",
-    pattern: "{controller=Home}/{action=Index}/{name}/{id?}");
-    // Đi hết 2 tuyến đường, không tìm đc tuyến đường khớp sẽ báo lỗi trình duyệt
+    pattern: "{controller=Home}/{action=Index1}/{name}/{id?}");
+// Đi hết 2 tuyến đường, không tìm đc tuyến đường khớp sẽ báo lỗi trình duyệt
+app.MapControllerRoute( 
+    name: "BTVN1",
+    pattern: "{controller=Bai1}/{action}/{x}/{y}/{z}");
 app.Run();

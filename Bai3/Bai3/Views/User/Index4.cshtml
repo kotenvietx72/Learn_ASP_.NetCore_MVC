@@ -1,0 +1,18 @@
+﻿@model Bai3.Models.User
+@{
+    @using (Html.BeginForm())
+    {
+        @Html.LabelFor(Model => Model.Id)
+        @Html.EditorFor(Model=> Model.Id) <br />
+
+        @Html.LabelFor(Model => Model.Name)
+        @Html.EditorFor(Model=> Model.Name) <br />
+
+        @Html.LabelFor(Model => Model.Address)
+        @Html.EditorFor(Model=> Model.Address) <br />
+
+        @Html.LabelFor(Model => Model.Email)
+        @Html.EditorFor(Model=> Model.Email) <br />
+        <input type="submit" value="Gửi kq " />
+    }
+}

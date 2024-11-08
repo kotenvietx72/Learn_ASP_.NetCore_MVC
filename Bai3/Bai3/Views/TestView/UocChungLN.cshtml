@@ -1,0 +1,9 @@
+﻿<div>
+    @{
+        Html.BeginForm("UCLN", "TestView", FormMethod.Post); // Bắt đầu form, 3 tham số là tên hàm nhận form, controller và post để gửi
+        @Html.Label("Nhap so thu nhat: ") @Html.TextBox("a"); <br />
+        @Html.Label("Nhap so thu hai: ") @Html.TextBox("b"); <br />
+        <input type="submit" value="Kết quả"/>
+        Html.EndForm();
+    }
+</div>

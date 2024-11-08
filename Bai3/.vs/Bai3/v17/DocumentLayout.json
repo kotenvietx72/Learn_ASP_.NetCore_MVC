@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\",
+  "WorkspaceRootPath": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|a:\\asp .net core\\.net_core_co_pham_thuy\\bai3\\bai3\\bai3\\views\\testview\\testrazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|solutionrelative:bai3\\views\\testview\\testrazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|a:\\asp .net core\\.net_core_co_pham_thuy\\bai3\\bai3\\views\\bai2\\yeucau2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|solutionrelative:bai3\\views\\bai2\\yeucau2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|a:\\asp .net core\\.net_core_co_pham_thuy\\bai3\\bai3\\bai3\\controllers\\testviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|solutionrelative:bai3\\controllers\\testviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|a:\\asp .net core\\.net_core_co_pham_thuy\\bai3\\bai3\\controllers\\bai2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|solutionrelative:bai3\\controllers\\bai2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|a:\\asp .net core\\.net_core_co_pham_thuy\\bai3\\bai3\\bai3\\views\\testview\\truyendulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|solutionrelative:bai3\\views\\testview\\truyendulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|a:\\asp .net core\\.net_core_co_pham_thuy\\bai3\\bai3\\views\\bai2\\yc2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3D2DC4A-4848-431C-AE65-F3CE67DC4F25}|Bai3\\Bai3.csproj|solutionrelative:bai3\\views\\bai2\\yc2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestRazor.cshtml",
-              "DocumentMoniker": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Bai3\\Views\\TestView\\TestRazor.cshtml",
-              "RelativeDocumentMoniker": "Bai3\\Views\\TestView\\TestRazor.cshtml",
-              "ToolTip": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Bai3\\Views\\TestView\\TestRazor.cshtml",
-              "RelativeToolTip": "Bai3\\Views\\TestView\\TestRazor.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T03:04:39.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestViewController.cs",
-              "DocumentMoniker": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Bai3\\Controllers\\TestViewController.cs",
-              "RelativeDocumentMoniker": "Bai3\\Controllers\\TestViewController.cs",
-              "ToolTip": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Bai3\\Controllers\\TestViewController.cs",
-              "RelativeToolTip": "Bai3\\Controllers\\TestViewController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAwCMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T01:50:47.297Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TruyenDuLieu.cshtml",
-              "DocumentMoniker": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Bai3\\Views\\TestView\\TruyenDuLieu.cshtml",
-              "RelativeDocumentMoniker": "Bai3\\Views\\TestView\\TruyenDuLieu.cshtml",
-              "ToolTip": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Bai3\\Views\\TestView\\TruyenDuLieu.cshtml",
-              "RelativeToolTip": "Bai3\\Views\\TestView\\TruyenDuLieu.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "DocumentIndex": 0,
+              "Title": "Yeucau2.cshtml",
+              "DocumentMoniker": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Views\\Bai2\\Yeucau2.cshtml",
+              "RelativeDocumentMoniker": "Bai3\\Views\\Bai2\\Yeucau2.cshtml",
+              "ToolTip": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Views\\Bai2\\Yeucau2.cshtml",
+              "RelativeToolTip": "Bai3\\Views\\Bai2\\Yeucau2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T02:49:02.79Z",
+              "WhenOpened": "2024-10-12T13:46:46.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "yc2.cshtml",
+              "DocumentMoniker": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Views\\Bai2\\yc2.cshtml",
+              "RelativeDocumentMoniker": "Bai3\\Views\\Bai2\\yc2.cshtml",
+              "ToolTip": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Views\\Bai2\\yc2.cshtml",
+              "RelativeToolTip": "Bai3\\Views\\Bai2\\yc2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T13:42:21.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai2Controller.cs",
+              "DocumentMoniker": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Controllers\\Bai2Controller.cs",
+              "RelativeDocumentMoniker": "Bai3\\Controllers\\Bai2Controller.cs",
+              "ToolTip": "A:\\ASP .NET core\\.Net_Core_Co_Pham_Thuy\\Bai3\\Bai3\\Controllers\\Bai2Controller.cs",
+              "RelativeToolTip": "Bai3\\Controllers\\Bai2Controller.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:13:00.803Z",
               "EditorCaption": ""
             }
           ]

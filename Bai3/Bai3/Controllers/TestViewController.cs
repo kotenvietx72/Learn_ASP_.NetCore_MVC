@@ -36,5 +36,13 @@ namespace Bai3.Controllers
             ViewBag.a = 10;
             return View();
         }
+        public IActionResult UocChungLN() // Form để người dùng nhập số
+        {
+            return View();
+        }
+        public IActionResult UCLN(int a, int b) { // Nhận dữ liệu từ form trên và hiển thị kết quả
+            ViewBag.a = a; ViewBag.b = b;
+            return View();
+        }
     }
 }

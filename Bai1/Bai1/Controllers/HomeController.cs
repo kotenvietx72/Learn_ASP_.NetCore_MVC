@@ -12,12 +12,22 @@ namespace Bai1.Controllers
         {
             _logger = logger;
         }
-
+        public IActionResult About()
+        {
+            return View();
+        }
+        public IActionResult Contact()
+        {
+            return View();
+        }
         public IActionResult Index()
         {
             return View();
         }
-
+        public IActionResult Index1()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();

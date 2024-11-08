@@ -1,0 +1,26 @@
+﻿@model Buoi3._2.Models.PTB2
+<h1>Giải Phương Trình Bậc 2</h1>
+@{
+    var ptb2 = Model;
+    if(ptb2.a == 0)
+    {
+        <p>Phương trình có nghiệm duy nhất bằng: @(-ptb2.c/ptb2.b)</p>
+    }
+    else
+    {
+        var denta = ptb2.b * ptb2.b - 4 * ptb2.a * ptb2.c;
+        if (denta < 0)
+        {
+            <p>Phương trình vô nghiệm</p>
+        }
+        else if (denta == 0)
+        {
+            <p>Phương trình có nghiệm kép bằng: @(-ptb2.b / (2 * ptb2.a))</p>
+        }
+        else
+        {
+            <p>Phương trình có hai nghiệm phân biệt: x1 = @((-ptb2.b + Math.Sqrt(denta)) / (2 * ptb2.a)); x2 = @((-ptb2.b - Math.Sqrt(denta)) / (2 * ptb2.a))</p>
+        }
+    }
+    
+}

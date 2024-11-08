@@ -18,8 +18,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = A:\ASP .NET core\.Net_Core_Co_Pham_Thuy\Bai1\Bai1
 build_property._RazorSourceGeneratorDebug = 
 
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Bai1/Bai1/Views/Bai1/GiaiPTB2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpMVxHaWFpUFRCMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Bai1/Bai1/Views/Bai1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpMVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Bai1/Bai1/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Bai1/Bai1/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Bai1/Bai1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Bai1/Bai1/Views/Home/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [A:/ASP .NET core/.Net_Core_Co_Pham_Thuy/Bai1/Bai1/Views/Home/Privacy.cshtml]
